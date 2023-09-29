@@ -1,0 +1,11 @@
+C:\Users\talga\Desktop\VS IDE Projects\BallFactory\BallFactory\obj\Debug\BallFactory.csproj.AssemblyReference.cache
+C:\Users\talga\Desktop\VS IDE Projects\BallFactory\BallFactory\obj\Debug\BallFactory.csproj.SuggestedBindingRedirects.cache
+C:\Users\talga\Desktop\VS IDE Projects\BallFactory\BallFactory\obj\Debug\BallFactory.Form1.resources
+C:\Users\talga\Desktop\VS IDE Projects\BallFactory\BallFactory\obj\Debug\BallFactory.Properties.Resources.resources
+C:\Users\talga\Desktop\VS IDE Projects\BallFactory\BallFactory\obj\Debug\BallFactory.csproj.GenerateResource.cache
+C:\Users\talga\Desktop\VS IDE Projects\BallFactory\BallFactory\obj\Debug\BallFactory.csproj.CoreCompileInputs.cache
+C:\Users\talga\Desktop\VS IDE Projects\BallFactory\BallFactory\bin\Debug\BallFactory.exe.config
+C:\Users\talga\Desktop\VS IDE Projects\BallFactory\BallFactory\bin\Debug\BallFactory.exe
+C:\Users\talga\Desktop\VS IDE Projects\BallFactory\BallFactory\bin\Debug\BallFactory.pdb
+C:\Users\talga\Desktop\VS IDE Projects\BallFactory\BallFactory\obj\Debug\BallFactory.exe
+C:\Users\talga\Desktop\VS IDE Projects\BallFactory\BallFactory\obj\Debug\BallFactory.pdb
